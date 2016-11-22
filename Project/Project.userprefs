@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{78DBC473-523D-420D-92E9-A475B0E0387A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XML.cs">
+    <Files>
+      <File FileName="Binary.cs" Line="19" Column="16" />
+      <File FileName="JSON.cs" Line="19" Column="16" />
+      <File FileName="Log.cs" Line="19" Column="16" />
+      <File FileName="Moduls.cs" Line="19" Column="16" />
+      <File FileName="Program.cs" Line="19" Column="16" />
+      <File FileName="XML.cs" Line="19" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Project PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,9 @@
+/Users/admin/Desktop/Dot_Net_Project/Project/Project/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/Users/admin/Desktop/Dot_Net_Project/Project/Project/bin/Debug/Project.exe.config
+/Users/admin/Desktop/Dot_Net_Project/Project/Project/bin/Debug/Project.exe.mdb
+/Users/admin/Desktop/Dot_Net_Project/Project/Project/bin/Debug/Project.exe
+/Users/admin/Desktop/Dot_Net_Project/Project/Project/obj/Debug/Project.exe
+/Users/admin/Desktop/Dot_Net_Project/Project/Project/obj/Debug/Project.exe.mdb
+/Users/admin/Desktop/Dot_Net_Project/Project/Project/bin/Debug/Newtonsoft.Json.dll
+/Users/admin/Desktop/Dot_Net_Project/Project/Project/bin/Debug/NSubstitute.dll
+/Users/admin/Desktop/Dot_Net_Project/Project/Project/bin/Debug/nunit.framework.dll
